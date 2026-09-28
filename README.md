@@ -67,3 +67,12 @@ I modified this README through a collaborator branch.
 - Role: Collaborator
 
 I modified this README through a collaborator branch.
+
+
+## Collaborator Practice
+
+- Contributor: 이재형
+- Student ID: 2022732004
+- Role: Collaborator
+
+I modified this README through a collaborator branch.
